@@ -177,7 +177,7 @@ def user_stats(df, city):
         print("✅The most common year of birth is ", mcyob, "\n")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*30)
     x = 1
     while True:
         raw = input('\nWould you like to see some raw data? type yes or no.\n')
