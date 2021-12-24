@@ -3,7 +3,7 @@
 **December 24, 2021**
 
 ### Project Title
-#Explore US Bikeshare Data
+**Explore US Bikeshare Data**
 
 ### Description
 This project is all about exploring bikeshare data in major cities in US including Chicago, New York City and Washington. It allow users analyze data of people who rent bikes over a period of time as specified by the users. The interactive project is created using Python and relies on pandas and numpy libraries.
