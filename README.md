@@ -24,4 +24,5 @@ Files can be found [here](https://drive.google.com/drive/folders/19zOPOANRqjHWWN
 * [Pandas Tutorial](https://www.w3schools.com/python/numpy/default.asp)
 * [Pandas Documentation](https://pandas.pydata.org/docs/index.html)
 * [Anaconda](https://www.anaconda.com/)
+* [Git Diff Documentation](https://git-scm.com/docs/git-diff)
 
